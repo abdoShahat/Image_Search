@@ -1,0 +1,10 @@
+Flask
+keras
+numpy
+requests
+tensorflow
+utils-core
+Werkzeug
+zict
+zipp
+gunicorn
